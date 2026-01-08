@@ -12,8 +12,12 @@ h1,h2,h3,h4,p,ul,li{
   padding:0;
 }
 
-header{
+#wrap{
   width:980px;
+  margin:0 auto;
+}
+
+header{
   color:brown;
   background-color:bisque;
   overflow:hidden;
@@ -59,8 +63,6 @@ nav a:hover{
 }
 
 main{
-
-  width:960px;
   padding-top:20px
   padding-left:20px;
   padding-bottom:20px;
@@ -131,7 +133,6 @@ h4{
 
 footer{
   clear:both;
-  width:940px;
   padding:20px;
   text-align:right;
   background-color:bisque;
