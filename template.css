@@ -18,6 +18,7 @@ h1,h2,h3,h4,p,ul,li{
 }
 
 header{
+  
   color:brown;
   background-color:bisque;
   overflow:hidden;
@@ -63,6 +64,7 @@ nav a:hover{
 }
 
 main{
+  
   padding-top:20px;
   padding-left:20px;
   padding-bottom:20px;
@@ -83,6 +85,7 @@ h3{
   width:220px;
   height:70px;
   margin-top:20px;
+  margin-bottom:20px;
   font-size:20px;
   line-height:70px;
   text-align:center;
@@ -117,11 +120,11 @@ h4{
   font-size:20px;
   line-height:60px;
   color:darkred;
-  text-align:centor;
+  text-align:center;
   border-radius:10px;
   background-image:url(../images/goldpanel.png)
 }
-#classic{clear:boh;}
+#classic{clear:both;}
 .sweets{
   width:280px;
   padding:10px;
@@ -133,6 +136,7 @@ h4{
 
 footer{
   clear:both;
+  
   padding:20px;
   text-align:right;
   background-color:bisque;
